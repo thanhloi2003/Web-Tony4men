@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-main {
+    margin-top: 50px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul.footer-menu-list.footer-social {
+    display: flex;
+    gap: 10px;
+}
+
+.form-footer {
+    display: flex;
+}
